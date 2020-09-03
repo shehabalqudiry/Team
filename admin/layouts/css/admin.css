@@ -1,0 +1,36 @@
+body {
+    background: #dfe6e9;
+}
+.login {
+    margin: 70px auto;
+    width: 30%;
+    padding: 60px 50px;
+}
+
+.m-sp > div {
+    height: 40px !important;
+    width: 200px !important;
+    margin: 0 auto;
+    border-radius: 20px;
+    text-align: center;
+    padding:3px 2px ;
+}
+.footer {
+    width: 100%;
+    height: 68px;
+    background: #636e72;
+    text-align: center;
+}
+.footer img {
+    float: left;
+    padding: 13px;
+}
+.copy,
+.author-footer {
+    margin:2px auto;
+    width: 500px;
+    color: floralwhite;
+    font-size: 20px;
+    float: right;
+}
+}
